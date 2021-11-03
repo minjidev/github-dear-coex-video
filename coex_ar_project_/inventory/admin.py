@@ -6,3 +6,5 @@ admin.site.register(Product)
 admin.site.register(ProductType)
 admin.site.register(Store)
 admin.site.register(UserAction)
+
+#EJEJEJEJEJE I FIX THE ISSUE IM AMAZING
