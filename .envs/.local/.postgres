@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=coex_ar_project_
+POSTGRES_USER=waVDGZZUjFrangIhERYQdMzBRBacUJzZ
+POSTGRES_PASSWORD=P9tlSrOkm1VLBL0IDQkezDVh5BCvIjYazPN4phTF55vkxBOuNzK8xWKEk753UWHh
